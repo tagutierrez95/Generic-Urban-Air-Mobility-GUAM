@@ -20,7 +20,7 @@
 % *********************** User Input **************************************
 close all;
 %DataFname       = 'C:\Users\macheson\Desktop\TTT_AS_Git\GTM-GUAM-simulation\Exec_Scripts\Hover2CruiseSimOut.mat'; % Input SimOut filename or ''
-DataFname       = 'C:\Users\macheson\Desktop\TTT_AS_Git\GTM-GUAM-simulation\Exec_Scripts\Cruise_Climb_Turn_traj.mat'; % Input SimOut filename or ''
+DataFname       = '.\Exec_Scripts\Cruise_Climb_Turn_traj.mat'; % Input SimOut filename or ''
 VideoOutFname   = '.\Cruise_Climb_Turn_traj.avi'; % Desired filename of output video
 
 % User String to put in movie title
